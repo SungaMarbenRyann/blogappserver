@@ -14,7 +14,7 @@ const app = express();
 const corsOptions = {
     origin: [
         'http://localhost:3000',
-        'https://blogapplicationclient.vercel.app'
+        'https://blogappclient-five.vercel.app'
     ],
     credentials: true,
     optionsSuccessStatus: 200
